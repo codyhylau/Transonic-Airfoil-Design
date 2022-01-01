@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<airfoil variant="hb" version="1.0"><geometry><name value="NACA00"/><thickness value="10"/></geometry><control_points count="5"><point x="0.020000" y="0.000000" locked="1"/><point x="0.186408" y="-0.000571" locked="0"/><point x="0.592233" y="0.025714" locked="0"/><point x="0.965049" y="0.002857" locked="0"/><point x="0.980000" y="0.000000" locked="1"/></control_points><parameters><mach value="0.750000"/><incidence value="0.774648"/><R value="10.000000"/><XTU value="0.050000"/><XTL value="0.050000"/></parameters></airfoil>
